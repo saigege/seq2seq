@@ -12,7 +12,7 @@ setup(
       description='Sequence to Sequence Learning with Keras',
       author='Fariz Rahman',
       author_email='farizrahman4u@gmail.com',
-      url='https://github.com/farizrahman4u/seq2seq',
+      url='https://github.com/saigege/seq2seq',
       license='GNU GPL v2',
       install_requires=install_requires,
       packages=find_packages(),
